@@ -103,4 +103,4 @@ http://djangoecommerce.pythonanywhere.com
 https://colorlib.com/etc/fashe/index.html
 # Developed by Mahesh ❤️
 
-⭐ #Star this repo if you find it useful! ⭐
+⭐ #Star this repo if you find it useful ⭐
