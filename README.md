@@ -82,8 +82,6 @@ Password : 12345678
 ```
 
  # Learning Outcomes
-As a fresher, this project helped me:
-
 Understand Django's MTV architecture
 
 Implement CRUD operations
