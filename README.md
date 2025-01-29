@@ -7,6 +7,7 @@
 My first full-stack Django project demonstrating core web development skills. Built during my learning journey to understand e-commerce systems, payment gateways, and Django fundamentals.
 
 **Key Highlights**:
+
 ✅ Built from scratch with Django  
 ✅ Integrated Stripe payments  
 ✅ Implemented user authentication  
