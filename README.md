@@ -1,30 +1,50 @@
-# Django-Ecommerce
+# 🛍️ Django E-Commerce Project
 
-Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
+[![Django](https://img.shields.io/badge/Django-2.2-green)](https://www.djangoproject.com)
+[![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 
-![image](https://user-images.githubusercontent.com/29988949/65267147-499fc580-dac9-11e9-90e8-eccbc93c7c3a.png)
+My first full-stack Django project demonstrating core web development skills. Built during my learning journey to understand e-commerce systems, payment gateways, and Django fundamentals.
 
-`Product Slide`
+**Key Highlights**:
+✅ Built from scratch with Django  
+✅ Integrated Stripe payments  
+✅ Implemented user authentication  
+✅ Learned database design with PostgreSQL  
+✅ Practiced frontend development with Bootstrap  
 
-![image](https://user-images.githubusercontent.com/29988949/65999313-ff67fe00-e451-11e9-9ed9-fc7bce704f17.png)
+---
 
-`Shop Page`
-![image](https://user-images.githubusercontent.com/29988949/66098968-923f9000-e559-11e9-8691-cd5c2b181ca1.png)
+## 🖥️ Screenshots
+| Home Page | Product Details | Cart |
+|-----------|-----------------|------|
+| ![Home](https://user-images.githubusercontent.com/29988949/65267147-499fc580-dac9-11e9-90e8-eccbc93c7c3a.png) | ![Details](https://user-images.githubusercontent.com/29988949/66291084-bff84200-e895-11e9-8d53-3aa23b29dbae.png) | ![Cart](https://user-images.githubusercontent.com/29988949/66291144-f0d87700-e895-11e9-8545-b8f93f799063.png) |
 
-`Product Detail Page`
-![image](https://user-images.githubusercontent.com/29988949/66291084-bff84200-e895-11e9-8d53-3aa23b29dbae.png)
+---
 
-`Cart Page`
-![image](https://user-images.githubusercontent.com/29988949/66291144-f0d87700-e895-11e9-8545-b8f93f799063.png)
+## 🛠️ Technologies Used
+**Backend**:
+- Django (MVC Architecture)
+- Django AllAuth (Authentication)
+- Stripe API (Payments)
+- PostgreSQL (Database)
 
-`BillingAddress Page`
-![image](https://user-images.githubusercontent.com/29988949/66291542-013d2180-e897-11e9-8ea9-40afcb90cee2.png)
+**Frontend**:
+- HTML5/CSS3
+- Bootstrap 4
+- JavaScript (Basic DOM Manipulation)
 
-`Stripe Payment Page`
-![image](https://user-images.githubusercontent.com/29988949/66291610-29c51b80-e897-11e9-8b47-20de35d6c1d0.png)
+**Tools**:
+- Git/GitHub (Version Control)
+- PythonAnywhere (Deployment Attempt)
 
-`Order Success Page`
-![image](https://user-images.githubusercontent.com/29988949/66291657-3e091880-e897-11e9-830b-6cf44e72a995.png)
+---
+
+## 🚀 How to Run (Local Setup)
+**Step 1:** Clone Repository  
+```bash
+git clone https://github.com/yourusername/django-ecommerce.git
+cd django-ecommerce
 
 # Installation
 
