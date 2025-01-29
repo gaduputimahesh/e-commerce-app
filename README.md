@@ -49,7 +49,7 @@ My first full-stack Django project demonstrating core web development skills. Bu
 ## 🚀 How to Run (Local Setup)
 **Step 1:** Clone Repository  
 ```bash
-git clone https://github.com/yourusername/django-ecommerce.git
+git clone https://github.com/gaduputimahesh/django-ecommerce.git
 cd django-ecommerce
 
 # Installation
