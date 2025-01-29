@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-2.2-green)](https://www.djangoproject.com)
-[![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
+
 
 My first full-stack Django project demonstrating core web development skills. Built during my learning journey to understand e-commerce systems, payment gateways, and Django fundamentals.
 
