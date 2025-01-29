@@ -15,10 +15,15 @@ My first full-stack Django project demonstrating core web development skills. Bu
 
 ---
 
-## 🖥️ Screenshots
-| Home Page | Product Details | Cart |
-|-----------|-----------------|------|
-| ![Home](https://user-images.githubusercontent.com/29988949/65267147-499fc580-dac9-11e9-90e8-eccbc93c7c3a.png) | ![Details](https://user-images.githubusercontent.com/29988949/66291084-bff84200-e895-11e9-8d53-3aa23b29dbae.png) | ![Cart](https://user-images.githubusercontent.com/29988949/66291144-f0d87700-e895-11e9-8545-b8f93f799063.png) |
+## 📸 Screenshots
+
+| **Shop Page** | **Product Details** | **Cart** |
+|---------------|----------------------|----------|
+| ![Shop Page](https://user-images.githubusercontent.com/29988949/66098968-923f9000-e559-11e9-8691-cd5c2b181ca1.png) | ![Product Details](https://user-images.githubusercontent.com/29988949/66291084-bff84200-e895-11e9-8d53-3aa23b29dbae.png) | ![Cart](https://user-images.githubusercontent.com/29988949/66291144-f0d87700-e895-11e9-8545-b8f93f799063.png) |
+
+| **Checkout** | **Stripe Payment** | **Order Success** |
+|--------------|--------------------|-------------------|
+| ![Checkout](https://user-images.githubusercontent.com/29988949/66291542-013d2180-e897-11e9-8ea9-40afcb90cee2.png) | ![Stripe](https://user-images.githubusercontent.com/29988949/66291610-29c51b80-e897-11e9-8b47-20de35d6c1d0.png) | ![Order Success](https://user-images.githubusercontent.com/29988949/66291657-3e091880-e897-11e9-830b-6cf44e72a995.png) |
 
 ---
 
@@ -75,6 +80,21 @@ python manage.py createsuperuser
 Username : admin
 Password : 12345678
 ```
+
+ # Learning Outcomes
+As a fresher, this project helped me:
+
+Understand Django's MTV architecture
+
+Implement CRUD operations
+
+Work with third-party APIs (Stripe)
+
+Manage user sessions and authentication
+
+Develop responsive web interfaces
+
+Debug using Django's error pages
 # Demo
 
 http://djangoecommerce.pythonanywhere.com
@@ -82,4 +102,6 @@ http://djangoecommerce.pythonanywhere.com
 # HTML Template
 
 https://colorlib.com/etc/fashe/index.html
+# Developed by Mahesh ❤️
 
+⭐ #Star this repo if you find it useful! ⭐
