@@ -1,4 +1,4 @@
-# 🛍️ Django E-Commerce Project
+# 🛍️ Django E-Commerce 
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-2.2-green)](https://www.djangoproject.com)
